@@ -1,5 +1,5 @@
 [package]
-name = "Rust-Learning-Excercises"
+name = "rust_learning_excercises"
 version = "0.1.0"
 edition = "2021"
 
